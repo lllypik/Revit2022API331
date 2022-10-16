@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API331.dll"</Assembly>
+		<AddInId>F48AAD95-5BEE-4EFC-9EBA-8678153822CF</AddInId>
+		<FullClassName>Revit2022API331.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Параметры. Программа подсчета объема стен</Text>
+	</AddIn>
+</RevitAddIns>
+

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\PROG\App\DLL\Revit2022API332.dll"</Assembly>
+		<AddInId>8D467750-DD1D-4447-AB3F-3A6360BB4F18</AddInId>
+		<FullClassName>Revit2022API332.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Параметры. Расчет длины выбранных свойств</Text>
+	</AddIn>
+</RevitAddIns>
+
+
